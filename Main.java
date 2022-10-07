@@ -1,5 +1,5 @@
 import java.util.Set;
-
+//Aquest fitxer l'ha penjat l'Adrià Boix
 public class Main {
     public static void main(String[] args) {
         BibliotecaDeVideojocs biblioteca = new BibliotecaDeVideojocs();
