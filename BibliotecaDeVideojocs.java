@@ -1,6 +1,6 @@
 import java.util.HashSet;
 import java.util.Set;
-
+// Això és un comentri personalitzat fet per un dels alumnes present de la classe (Blai)
 public class BibliotecaDeVideojocs {
     private Set<Videojoc> videojocs;
 
