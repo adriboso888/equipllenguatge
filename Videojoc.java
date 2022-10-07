@@ -114,4 +114,3 @@ public class Videojoc {
         usuarisQueHanConsultat.add(usuari);
     }
 }
-    }

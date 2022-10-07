@@ -15,7 +15,7 @@ public class Main {
         System.out.println("\n** USUARIS QUE HAN CONSULTAT");
         Set<Usuari> usuarisQueHanConsultat = videojoc1.getUsuarisQueHanConsultat();
         for (Usuari usuari : usuarisQueHanConsultat) {
-            System.out.println(usuari.getNomDelUsuari());
+            System.out.println(usuari.getIdentificador());
         }
     }
 }
