@@ -1,4 +1,5 @@
 public class Usuari {
+    //alexxx
     private String nomDelUsuari;
 
     public Usuari(String nomUsuari) {
