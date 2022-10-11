@@ -1,6 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 //Hola soc la claudia c:
+//Hola soc la claudia des d'una branca del GitHub
 public class Videojoc {
     private String nom;
     private String genere;
