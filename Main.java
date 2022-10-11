@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-//claudia
-=======
-//adria
->>>>>>> d89ed5562f7cccf63ab212c9fbbdb967d8bfacf4
+//claudia adria
 import java.util.Set;
 //Aquest fitxer l'ha penjat l'Adrià Boix en el branch d'adrià
 public class Main {
