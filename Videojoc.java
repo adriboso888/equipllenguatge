@@ -1,6 +1,6 @@
 import java.util.HashSet;
 import java.util.Set;
-//Comentari fet a l'inici del programa per l'Adrià Boix
+//Comentari fet a l'inici del programa per l'Adrià Boix v2
 //Hola soc la claudia c:
 //Hola soc la claudia des d'una branca del GitHub
 public class Videojoc {
@@ -116,3 +116,4 @@ public class Videojoc {
         usuarisQueHanConsultat.add(usuari);
     }
 }
+//Hola soc l'ultim comentari d'aquest fitxer
