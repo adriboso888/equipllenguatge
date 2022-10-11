@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 public class Usuari {
     private final int id;
+    //alexxx branch
     private static int ultimId = 0;
 
     private String nickname;
