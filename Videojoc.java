@@ -1,4 +1,4 @@
-//adria
+//adria claudia
 import java.util.HashSet;
 import java.util.Set;
 //Comentari fet a l'inici del programa per l'Adrià Boix v2
