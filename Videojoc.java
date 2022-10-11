@@ -115,3 +115,4 @@ public class Videojoc {
         usuarisQueHanConsultat.add(usuari);
     }
 }
+//Hola soc l'ultim comentari d'aquest fitxer
