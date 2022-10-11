@@ -1,5 +1,5 @@
 import java.time.LocalDate;
-
+//Comentari Conflictiu
 public class Usuari {
     private final int id;
     //alexxx branch
