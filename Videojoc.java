@@ -1,5 +1,6 @@
 import java.util.HashSet;
 import java.util.Set;
+//Comentari fet a l'inici del programa per l'Adrià Boix
 //Hola soc la claudia c:
 //Hola soc la claudia des d'una branca del GitHub
 public class Videojoc {
