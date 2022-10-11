@@ -18,5 +18,6 @@ public class Usuari {
 
     public String getIdentificador() {
         return nickname+"#"+String.format("%04d", id);
+        //quien tenga miedo a morir que no nazca
     }
 }
