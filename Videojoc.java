@@ -30,8 +30,7 @@ public class Videojoc {
         return nom;
     }
 
-    public void setNom(String nom) {
-        this.genere = nom;
+    public void setNom(String nom) { this.nom = this.nom;
     }
 
     public String getGenere() {
@@ -39,7 +38,7 @@ public class Videojoc {
     }
 
     public void setGenere(String genere) {
-        this.ambientacio = genere;
+        this.genere = genere;
     }
 
     public int getNumeroJugadors() {
@@ -55,7 +54,7 @@ public class Videojoc {
     }
 
     public void setPreu(float preu) {
-        this.preu = this.preu;
+        this.preu = preu;
     }
 
     public String getPlataformes() {
